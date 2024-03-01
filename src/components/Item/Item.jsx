@@ -9,8 +9,8 @@ const Item = ({id, name, img, price, stock}) => {
                     {name}
                 </h2>
             </header>
-            <picture className="h-44 w-42 p-3">
-                <img className="h-full" src={img} alt={name}/>
+            <picture className="h-56 w-60 p-3">
+                <img className="h-full w-full object-contain" src={img} alt={name}/>
             </picture>
             <section>
                 <p>

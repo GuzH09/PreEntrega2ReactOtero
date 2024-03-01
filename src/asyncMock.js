@@ -4,7 +4,7 @@ const products = [
         name: 'Iphone 12',
         price: 1000,
         category: 'celular',
-        img: 'https://www.macstation.com.ar/img/productos/2492-2317-1.jpg',
+        img: 'https://images.unsplash.com/photo-1589492477829-5e65395b66cc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         stock: 25,
         description: 'Descripcion de Iphone 12'
     },
@@ -13,7 +13,7 @@ const products = [
         name: 'Samsung S21',
         price: 800,
         category: 'celular',
-        img: 'https://m.media-amazon.com/images/I/61jYjeuNUnL._AC_SL1000_.jpg',
+        img: 'https://images.unsplash.com/photo-1546054454-aa26e2b734c7?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         stock: 16,
         description: 'Descripcion de Samsung S21'
     },
@@ -22,7 +22,7 @@ const products = [
         name: 'Ipad 8va generacion',
         price: 1200,
         category: 'tablet',
-        img: 'https://outtec.com.ar/wp-content/uploads/2021/06/1-8.png',
+        img: 'https://images.unsplash.com/photo-1628591459313-a64214c5bfac?q=80&w=1921&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         stock: 10,
         description: 'Descripcion de Ipad 8va generacion'
     }
